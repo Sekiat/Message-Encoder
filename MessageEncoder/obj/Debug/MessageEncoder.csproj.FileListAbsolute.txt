@@ -1,0 +1,16 @@
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\bin\Debug\MessageEncoder.exe.config
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\bin\Debug\MessageEncoder.exe
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\bin\Debug\MessageEncoder.pdb
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MessageEncoder.csproj.AssemblyReference.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MessageEncoder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MainWindow.g.cs
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\App.g.cs
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MessageEncoder_MarkupCompile.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MessageEncoder_MarkupCompile.lref
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MainWindow.baml
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MessageEncoder.g.resources
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MessageEncoder.Properties.Resources.resources
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MessageEncoder.csproj.GenerateResource.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MessageEncoder.csproj.CoreCompileInputs.cache
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MessageEncoder.exe
+C:\Users\Atsuki\Desktop\ProjectStrage\MessageEncoder\MessageEncoder\obj\Debug\MessageEncoder.pdb

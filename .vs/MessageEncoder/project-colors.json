@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ab6aad23-acc6-436a-8bfd-bb8022e1fc77": {
+      "ProjectGuid": "ab6aad23-acc6-436a-8bfd-bb8022e1fc77",
+      "DisplayName": "MessageEncoder",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
